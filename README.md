@@ -1,5 +1,3 @@
-# validaid-latam
-
 # ValidaID LATAM: valida NIT, RUT, CUIT, CNPJ y RFC en tu navegador
 
 [ValidaID LATAM](https://validaid-latam.pages.dev/) revisa el dígito verificador y la estructura de identificadores tributarios de Latinoamérica, uno por uno o en lote desde archivos CSV/XLSX. Todo corre en el navegador: los archivos nunca se suben ni se guardan en ningún servidor.
